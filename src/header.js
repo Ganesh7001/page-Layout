@@ -3,6 +3,6 @@ import "./CSS/header.css"
 
 export default function Header() {
   return (
-    <div className='header'> <h1>Vandana misal</h1></div>
+    <div className='header'> <h1>Indian Tadka</h1></div>
   )
 }
