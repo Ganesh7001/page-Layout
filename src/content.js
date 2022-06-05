@@ -4,7 +4,7 @@ import "./CSS/content.css"
 export default function Content() {
   return (
     <div className='content'>
-    <h1>Info</h1>
+    <h1>Content</h1>
     <p>
     Misal, is a very popular spicy dish in the Western Indian state of Maharashtra. 
     The dish is mostly eaten for breakfast or as a midday snack or sometimes as a one-dish meal, 
